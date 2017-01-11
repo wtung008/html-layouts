@@ -10,6 +10,11 @@ h2 {
   text-align: center;
 }
 
+h2 span:first-child{
+  background-color: red;
+  color: white;
+}
+
 h3 a{
     font-size: 30px;
     text-decoration: none;
@@ -41,6 +46,10 @@ p.article1{
   line-height: 1.5;
 }
 
+.article-list li{
+  color: red;
+}
+
 h5 {
   font-size: 30px;
   text-align: center;
@@ -58,7 +67,7 @@ a.zhang2:hover {
 }
 
 div ul{
-  list-style: none;
+  list-style:
 }
 
 ul.zhang {
